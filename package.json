@@ -1,0 +1,11 @@
+{
+  "name": "wowfolio",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">\r   <img src=\"https://i.postimg.cc/wMhtzfw7/ezgif-com-gif-maker-1.gif\" alt=\"Wowfolio Demo\" width=\"100%\" />\r   <br>\r </div>",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
